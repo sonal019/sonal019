@@ -5,6 +5,7 @@
 - 📫 How to reach me 
 - Kaggle - https://www.kaggle.com/sonalmahajan
 - Linkdin - https://www.linkedin.com/in/sonal-mahajan-4b15791b3
+- E-mail - sonalmahajan2001@gmail.com
 
 <!---
 sonal019/sonal019 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
