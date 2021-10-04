@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sonal Mahajan
-- 👀 I’m interested in Machine Learning,Web Development,Android App Development
+- 👀 I’m interested in Machine Learning,Web Development and Android App Development
 - 🌱 I’m currently learning Google Cloud
 - 💞️ I’m looking to collaborate on Kaggle Competitions
 - 📫 How to reach me 
