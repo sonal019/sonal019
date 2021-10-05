@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sonal Mahajan
-- 👀 I’m interested in Machine Learning,Web Development and Android App Development
-- 🌱 I’m currently learning Google Cloud
+- 👀 I’m interested in Machine Learning, Web Development and Android App Development
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Kaggle Competitions
-- 📫 How to reach me 
+- 📫 How to reach me - 
 - Kaggle - https://www.kaggle.com/sonalmahajan
 - Linkdin - https://www.linkedin.com/in/sonal-mahajan-4b15791b3
 - E-mail - sonalmahajan2001@gmail.com
