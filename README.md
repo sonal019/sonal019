@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonal Mahajan
-- 👀 I’m interested in Machine Learning, Web Development(frontend)
-- 🌱 I’m currently learning React
+- 👀 I’m interested in 
+- 🌱 I’m currently learning
 - 💞️ I’m looking to collaborate on Kaggle Competitions
 - 📫 How to reach me - 
 - Kaggle - https://www.kaggle.com/sonalmahajan
